@@ -121,8 +121,7 @@
         102191581,
         85633259,
         1108809575,
-        1108808603,
-        85673325
+        1108808603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,8 +147,7 @@
             "campus_id":102544383,
             "continent_id":102191581,
             "country_id":85633259,
-            "localadmin_id":1108809575,
-            "region_id":85673325
+            "localadmin_id":1108809575
         }
     ],
     "wof:id":102544383,
